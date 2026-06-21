@@ -26,10 +26,4 @@
 **languages**
 > Python · Next.js · CSS · Lua · C++
 
-<br>
-
-<div align="center">
-
-
-
 </div>
