@@ -19,9 +19,7 @@
 > `catchii@ivory.st`
 
 **location**
-> 🇩🇪 Germany
-
-![Local Time](https://img.shields.io/badge/dynamic/json?color=2b2b2b&label=local%20time&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FBerlin&style=flat-square)
+> Germany
 
 **languages**
 > Python · Next.js · CSS · Lua · C++
