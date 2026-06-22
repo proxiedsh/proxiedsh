@@ -17,6 +17,7 @@
 
 **contact**
 > `catchii@ivory.st`
+> `catchiie` - discord
 
 **location**
 > Germany
