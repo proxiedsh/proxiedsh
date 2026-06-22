@@ -22,6 +22,6 @@
 > Germany
 
 **languages**
-> Python · Next.js · CSS · Lua · C++
+> Python · Lua · C# · C++ · CSS
 
 </div>
